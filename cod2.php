@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Tipo número</title>
+    <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
 </head>
 <body>
     <h1>Redondo ou não?</h1>
