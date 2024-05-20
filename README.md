@@ -1,2 +1,2 @@
 # numeros-php
-uma atividade para desenvolver os conhecimentos utilizando PHP
+uma atividade para desenvolver os conhecimentos utilizando PH
